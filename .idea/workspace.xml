@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec1509d2-f652-4f6f-8f90-8b9dcda94d03" name="Default" comment="initial commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppTracking.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomids.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-07-10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-09-29.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-10-03.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-10-04.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-10-26.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-11-07.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-11-08.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-11-10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-11-13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-11-14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/Customer_Success_2017-12-10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results/randomids_2017-03-05.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CSVUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/AccessToken.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/AppYourselfAPIGetConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/BasicAppDetails.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/BasicAppDetailsFromVPP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/BasicAppStatistics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/Module.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/PublishAppInformation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/PushNotificationDetails.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/ResellerApps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/StampcardStats.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/WebAppDetails.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/user/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/user/UserDetails.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/user/UserDetailsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/connectors/user/UserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/FetchException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/CDL.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/Cookie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/CookieList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/HTTP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/HTTPTokener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONML.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONPointer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONPointerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONStringer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONTokener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/JSONWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/Property.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/XML.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/json/XMLTokener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -405,30 +346,30 @@
       <workItem from="1510527915355" duration="35296000" />
       <workItem from="1512032309948" duration="1002000" />
       <workItem from="1512392085192" duration="1410000" />
-      <workItem from="1512452898833" duration="8691000" />
+      <workItem from="1512452898833" duration="9093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117491000" />
+    <option name="totallyTimeSpent" value="117893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833958" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833958" sideWeight="0.49722221" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833958" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23595506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
